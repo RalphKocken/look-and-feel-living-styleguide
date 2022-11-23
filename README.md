@@ -2,7 +2,9 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
+# Living Style Guide
+
+![styleguide_readme](https://user-images.githubusercontent.com/106448490/203526910-1063680f-f829-4496-816c-aeb93a10c442.png)
 
 
 ## Licentie
