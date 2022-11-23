@@ -4,6 +4,9 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Living Style Guide
 
+Een living style guide voor de website van de Buurtcampus. 
+
+
 ![styleguide_readme](https://user-images.githubusercontent.com/106448490/203526910-1063680f-f829-4496-816c-aeb93a10c442.png)
 
 
